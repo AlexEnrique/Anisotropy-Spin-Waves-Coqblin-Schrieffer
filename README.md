@@ -41,3 +41,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 This work is part of my master's degree dissertation and has been made possible thanks to the support of my advisor, [Eduardo Miranda](https://orcid.org/0000-0001-8833-1653), and thanks to my university, the State University of Campinas (Unicamp).
+
+This research was supported by a scholarship from the National Council for Scientific and Technological Development (CNPq) of Brazil. I would like to express my gratitude to CNPq for their financial support, which made this work possible.
